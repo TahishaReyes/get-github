@@ -1,2 +1,2 @@
 # get-github
-GitHub Exercise
+GitHub Exercise Part I demostrating how I learned to navigate GitHub 
